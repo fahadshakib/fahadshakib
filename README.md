@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fahad Hossain
 - 👀 I’m interested in web development
-- 🌏 I'm pursuing my Telecommunication degree from Rajshahi University of Engineering and Technology
+- 🎓 I'm pursuing my Telecommunication degree from Rajshahi University of Engineering and Technology
 - 🌱 I’m currently learning how to work-with/manage different database's
 - 📫 reach me at fahadhshakib@gmail.com
 
